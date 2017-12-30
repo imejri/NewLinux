@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.linuxclassroom.fr/index.html</loc>
+	</url>
+	<url>
+		<loc>http://www.linuxclassroom.fr/formation.html</loc>
+	</url>
+	<url>
+		<loc>http://www.linuxclassroom.fr/certification.html</loc>
+	</url>
+	<url>
+		<loc>http://www.linuxclassroom.fr/certifications/lpic1.html</loc>
+	</url>
+	<url>
+		<loc>http://www.linuxclassroom.fr/certifications/lpic2.html</loc>
+	</url>
+	<url>
+		<loc>http://www.linuxclassroom.fr/certifications/lpic3.html</loc>
+	</url>
+	<url>
+		<loc>http://www.linuxclassroom.fr/tutoriels.html</loc>
+	</url>
+	<url>
+		<loc>http://www.linuxclassroom.fr/contact.php</loc>
+	</url>
+	<url>
+		<loc>http://www.linuxclassroom.fr/index.php</loc>
+	</url>
+</urlset>
